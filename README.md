@@ -10,7 +10,7 @@ We provide a demo video showcasing the **office experiment setup** and the perfo
 
 - 🌐 **Watch the demo online:** [CellRespi Demo Website](https://saml758.github.io/CellRespi/)
 - 🎥 **Download the demo video:** If the embedded video does not play on Anonymous GitHub, please check [CellRespi Demo Website](https://saml758.github.io/CellRespi/).
-
+(assets/demo video.mp4)
 The video presents the experimental setup and representative respiration sensing results obtained with CellRespi.
 
 ## Quick Start
